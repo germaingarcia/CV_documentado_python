@@ -4,7 +4,7 @@
 ## Outline - Excel
 El primer paso de este proceso es definir el índice de nuestro cv, para lo cual, una buena alternativa es un documento spreadsheet ("Template_CV.xlsx"). Este documento debe tener tiene que tener la hoja **"Índice"** (como se muestra en la  figura)
 
-![png](./indice.png)
+![png](./Figs/indice.png)
 
 esta hoja contiene:
 1. **Página:** Nombre de hoja excel donde estarán organizados los datos
