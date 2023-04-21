@@ -2,13 +2,13 @@
 
 
 ## Outline - Excel
-El primer paso de este proceso es definir el índice de nuestro cv, para lo cual, una buena alternativa es un documento spreadsheet ("Template_CV.xlsx"). Este documento debe tener tiene que tener la hoja **"Índice"** (como se muestra en la  figura)
+El primer paso de este proceso es definir el índice de nuestro cv, para lo cual, una buena alternativa es un documento spreadsheet ("Template_CV.xlsx"). Este documento debe tener tiene que tener la hoja **"Índice"** (como se muestra en la figura)
 
 ![png](./Figs/indice.png)
 
 esta hoja contiene:
 1. **Página:** Nombre de hoja excel donde estarán organizados los datos
-    ![png](./pagina.png)
+    ![png](./Figs/pagina.png)
 2. **Título:** Título de la Sección con el que irá el CV final
 
 3. **Orden:** Órden en que se listará en el CV final
@@ -16,9 +16,9 @@ esta hoja contiene:
 
 En el caso de la *Planilla* se tiene 3 alternativas:
 - Información_personal
-  ![png](./informacion_personal.png)
+  ![png](./Figs/informacion_personal.png)
 - Título_Anho
- ![png](./anho.png)
+ ![png](./Figs/anho.png)
 - Lista_items (Lista simple del contenido)
   
 
@@ -46,5 +46,4 @@ Una vez ejecutado, se generarán 2 archivos en la carpeta *CV_Template_result.do
 *CV_Template_result.docx* puede ser alterado a preferencia del usuario, y una vez convertido a pdf, se puede utilizar aplicaciones como *PDFsam* para combinar los 2 archivos. En caso de no usar el número de página, puede usar el archivo *temp.pdf*
 
 ## Código
-El código completo se puede encontrar en el siguiente [**Link**](https://github.com/germaingarcia/CV_documentado_python)
-
+El código completo se puede encontrar en la carpeta **code**
